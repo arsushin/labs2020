@@ -70,3 +70,4 @@ int WINAPI WinMain( HINSTANCE hInstance,  HINSTANCE nPrevInstance, LPSTR lpCmdLi
 	}
 	return msg.wParam;
 }
+//This is an empty window.
